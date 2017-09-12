@@ -4,9 +4,9 @@
 
 - The specified groupname will be displayed:
 
-'dseditgroup -o -m groupname'
+'dseditgroup -o -m member'
 
 - Will prompted for a password to use in conjunction with the specified username:
 
-'dseditgroup -P -m groupname'
+'dseditgroup -P -m member'
 
